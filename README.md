@@ -1,9 +1,7 @@
 # dataviz
 
-Short Intensive Course "Data Visualization in R"
+Short Intensive Course "Data Visualization in R".
 
-Prepared by Diliara Valeeva, CORPNET, AISSR
+Prepared by Diliara Valeeva for AISSR PhDs.
 
-14th January 2019
-
-University of Amsterdam, Roeterseiland campus, room REC B3.11
+University of Amsterdam, 14th January 2019, Roeterseiland campus, room REC B3.11
